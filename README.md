@@ -121,4 +121,6 @@ Retrieve the total number of participants who have registered.
 - **404 - Not Found**: Route not found.
 - **500 - Internal Server Error**: Server error.
 
+## Postman Documentation
 
+Follow the link below to view postman documentation fot this API: https://documenter.getpostman.com/view/30020558/2sAYHzF2qt#8ce79b57-a3eb-4948-8f30-a67be6ee9f83
